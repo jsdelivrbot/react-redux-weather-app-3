@@ -1,0 +1,23 @@
+.input-group{
+  margin: 20px 0px;
+}
+
+.search-bar input{
+  width: 75%;
+}
+
+td,th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+svg {
+  height: 250px;
+  width: 280px
+}
+
+
+td:first-of-type, td:first-of-type > div {
+   height: 250px;
+   width : 280px
+}
