@@ -1,4 +1,4 @@
-# React Boilerplate
+# React-Redux Weather Application
 A single page application displaying the weather forecasts of your favorite cities.
 
 ## Usage
@@ -13,3 +13,4 @@ npm start
 <img src="https://github.com/rachnasidana28/react-redux-weather-app/blob/master/ScreenShot.png"/>
 </p>
 
+> Please get your API Key for http://openweathermap.org/forecast5 and replace in src/actions/index.js
